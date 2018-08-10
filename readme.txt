@@ -1,1 +1,2 @@
-Creating a new branch is quick not ok
+Creating a new branch is quick ok.
+
